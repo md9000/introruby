@@ -1,0 +1,1 @@
+# A hash associates a value with a key, whereas an array is an ordered list.
